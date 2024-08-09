@@ -45,12 +45,7 @@ Here are some of the projects I've worked on:
   - Used Custom Filters for Designing and Optimization.
   
 - **Outcome:** It is highly useful when Business People want a brief Trends analysis for all 3 Measures in a same Dashboard.
-
-
-
-## 🌟 Highlights
-
-- 📜 **Certifications:** [Your Certifications] - I hold certifications in [Certification Names].
+- 
 
 ## 🛠️ How I Work
 
@@ -61,7 +56,6 @@ Here are some of the projects I've worked on:
 ## 🤝 Let's Connect!
 
 - **LinkedIn:** https://www.linkedin.com/in/ranjith-kumar-s-a396382b1
-- **Twitter:** [Your Twitter Handle]
 - **Email:** ranjithkumars092@gmail.com
 
 Feel free to explore my repositories and reach out if you'd like to collaborate on projects or just chat about data!
