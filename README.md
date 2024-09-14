@@ -35,7 +35,7 @@ Here are some of the projects I've worked on:
 - Improved Sales Performance
 - Increased Efficiency
 
-### [Project 2: Sample Super Store Analysis] ([https://public.tableau.com/app/profile/ranjith.kumar.s3009/viz/SAMPLESUPERSTOREANALYSIS-Color/SampleSuperStoreAnalysis](url))
+### [Project 2: Sample Super Store Analysis] https://public.tableau.com/app/profile/ranjith.kumar.s3009/viz/SAMPLESUPERSTOREANALYSIS-Color/SampleSuperStoreAnalysis
 - **Description:** An Analysis of Sales, Profit and Quantity Trends over the Years
 - **Tools Used:** Excel, Tableau, Canva.
 - **Key Features:**
@@ -57,6 +57,7 @@ Here are some of the projects I've worked on:
 
 - **LinkedIn:** https://www.linkedin.com/in/ranjith-kumar-s-a396382b1
 - **Email:** ranjithkumars092@gmail.com
+- **Alternate Email:** ranjithkumars920s@gmail.com
 
 Feel free to explore my repositories and reach out if you'd like to collaborate on projects or just chat about data!
 
