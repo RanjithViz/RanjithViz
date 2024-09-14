@@ -19,7 +19,7 @@ and crafting data-driven solutions.
 
 Here are some of the projects I've worked on:
 
-### [Project 1: KPI Sales Dashboard] [https://public.tableau.com/app/profile/ranjith.kumar.s3009/viz/KPI-SalesDashboard_17212028115640/Dashboard](url)
+### [Project 1: KPI Sales Dashboard] https://public.tableau.com/app/profile/ranjith.kumar.s3009/viz/KPI-SalesDashboard_17212028115640/Dashboard
 - **Description:** The goal of this project was to create an interactive and dynamic KPI Sales Dashboard in Tableau to provide stakeholders with real-time insights into key sales metrics,
                    allowing for data-driven decision-making and performance tracking.
 - **Tools Used:** Tableau, Excel, SQL
